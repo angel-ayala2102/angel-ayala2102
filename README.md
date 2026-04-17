@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Angel
 
-<!--
-**angel-ayala2102/angel-ayala2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst focused on understanding user behavior and improving digital products through data.
 
-Here are some ideas to get you started:
+## 🔍 What I do
+- Analyze user behavior and identify friction points  
+- Generate insights to improve user experience  
+- Support decision-making with data  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech stack
+Python | SQL | Pandas | NumPy | Matplotlib | Seaborn  
+
+## 🚀 Featured projects
+- 📉 Churn Prediction (Machine Learning)  
+- 📊 Telecom Plan Profitability Analysis  
+- 👥 Customer Segmentation (RFM)  
+
+## 📫 Contact
+- LinkedIn: (www.linkedin.com/in/angel-luis-ayala)  
+- Portfolio: (https://angel-ayala-portfolio.my.canva.site/)
